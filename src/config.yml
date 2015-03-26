@@ -1,0 +1,12 @@
+##
+#Glide, LIKE BATMAN!
+#
+#How to use, just add Glide.glide as a permission node to a player, and then they glide!
+# 'Glide.glide'
+##
+
+forwardPercent: 20
+
+upwardMotion: 0.08
+
+toggled: []

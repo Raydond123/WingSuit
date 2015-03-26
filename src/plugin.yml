@@ -1,0 +1,6 @@
+name: WingSuit
+main: me.raydond123.wingsuit.WingSuit
+version: 1.0
+commands:
+   getwingsuit:
+      description: Give yourself a wingsuit.
